@@ -1,0 +1,38 @@
+.root {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 1rem;
+  border-top: var(--venia-global-border);
+  padding: 1rem;
+  border-top: 1px solid rgb(var(--venia-global-color-border));
+}
+
+.image {
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.info {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.title {
+}
+
+.price {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 0.25rem;
+}
+
+.options {
+}
