@@ -1,6 +1,6 @@
 {
   "name": "@castletech/pwa-module-product-bundle",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Product Bundle extension for PWA Studio.",
   "main": "./index.js",
   "scripts": {
