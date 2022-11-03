@@ -1,2 +1,1 @@
-module.exports = ({ targetables, talons, settings = {} }) => {}
-;
+module.exports = () => {};

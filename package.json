@@ -9,7 +9,8 @@
   "peerDependencies": {
     "@magento/peregrine": "~11.0.0",
     "@magento/pwa-buildpack": "~10.0.0",
-    "@magento/venia-ui": "~8.0.0"
+    "@magento/venia-ui": "~8.0.0",
+    "@castletech/pwa-module-product-bundle": "~0.4.17"
   },
   "pwa-studio": {
     "targets": {
