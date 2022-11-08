@@ -1,6 +1,6 @@
 ## PWA Studio Product Bundle Extension
 
-![Preview](https://raw.githubusercontent.com/castlebr/pwa-module-product-bundle/master/docs/preview.jpg 'Preview')
+![Preview](https://github.com/castlebr/pwa-module-product-bundle/blob/master/docs/preview.gif?raw=true 'Preview')
 
 This module depends on [Product Types Module](https://github.com/castlebr/pwa-module-product-type), below you can see a simple guide to install the Product Bundle and its dependencies.
 
