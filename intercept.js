@@ -8,7 +8,7 @@ module.exports = targets => {
   });
 
   // product type variant
-  targets.of('@castletech/pwa-module-core').productType.tap(types =>
+  targets.of('@castletech/pwa-module-product-type').productType.tap(types =>
     types.add({
       condition: "product.__typename === 'BundleProduct'",
       componentName: 'ProductBundle',

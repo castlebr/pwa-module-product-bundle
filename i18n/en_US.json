@@ -1,4 +1,3 @@
 {
-  "productBundle.selectedProductQuantity": "Selected: {quantity} product",
-  "productBundle.selectedProductsQuantity": "Selected: {quantity} products"
+  "productBundle.outOfStock": "Out of stock"
 }

@@ -1,7 +1,7 @@
 {
   "name": "@castletech/pwa-module-product-bundle",
-  "version": "0.1.4",
-  "description": "Product Bundle extension for PWA Studio.",
+  "version": "0.1.5",
+  "description": "Product Bundle Extension for PWA Studio.",
   "main": "./index.js",
   "scripts": {
     "clean": " "
@@ -10,7 +10,7 @@
     "@magento/peregrine": "~11.0.0",
     "@magento/pwa-buildpack": "~10.0.0",
     "@magento/venia-ui": "~8.0.0",
-    "@castletech/pwa-module-product-bundle": "~0.4.17"
+    "@castletech/pwa-module-product-type": "~0.1.0"
   },
   "pwa-studio": {
     "targets": {

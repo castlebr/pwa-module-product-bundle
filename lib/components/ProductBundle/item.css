@@ -2,9 +2,8 @@
   display: grid;
   grid-template-columns: 100px 1fr;
   gap: 1rem;
-  border-top: var(--venia-global-border);
-  padding: 1rem;
-  border-top: 1px solid rgb(var(--venia-global-color-border));
+  padding: 1rem 0;
+  border-bottom: 1px solid rgb(var(--venia-global-color-border));
 }
 
 .image {
